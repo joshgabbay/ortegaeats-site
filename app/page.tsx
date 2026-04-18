@@ -811,10 +811,10 @@ export default function Home() {
             </div>
             <div className="flex items-center gap-6 text-sm">
               <a
-                href="mailto:contact@ortegaeats.com"
+                href="mailto:ortegaeatscontact@gmail.com"
                 className="hover:text-white transition-colors"
               >
-                contact@ortegaeats.com
+                ortegaeatscontact@gmail.com
               </a>
               <a
                 href="https://www.instagram.com/ortega.eats/"
