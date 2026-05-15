@@ -25,7 +25,7 @@ export default function Home() {
         </h1>
 
         <p className="text-base sm:text-lg text-white/70 leading-relaxed mb-10">
-          OrtegaEats is paused for maintenance. The iOS app is still available
+          OrtegaEats is on pause. The iOS app is still available
           on the App Store — check back here shortly.
         </p>
 
